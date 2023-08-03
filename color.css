@@ -1,0 +1,27 @@
+ .body{
+	 display :flex;
+	 gap:24px;
+	 flex-direction:column;
+	 color:green;
+	 
+ }
+ 
+ .heading{
+	 font-size;24px;
+	 
+ }
+ 
+ .colors{
+	 
+	 display:flex;
+	 flex-direction:row;
+	 gap:24px;
+	 
+	 
+ }
+ .color{
+	 width:200px;
+	 height:200px;
+	 border:2px solid black;
+	 
+ }
